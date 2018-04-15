@@ -1,1 +1,2 @@
 typora-copy-images-to: media
+
