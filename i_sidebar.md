@@ -1,6 +1,6 @@
 # 小程序入门教程
 
-- [小程序介绍](./docs/01.introduction.md)
+- [小程序介绍](01.introduction.md)
 - [快速开始](02.quick-start.md)
 - 准备工作
   - [注册账号与登陆](03.signInAndSignUp.md)

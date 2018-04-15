@@ -7,4 +7,4 @@
 - 联系：wangchaohua110@foxmail.com
 
 [GitHub](https://github.com/huoqishi/mini-programs-docs)
-[Get Started](README)
+[Get Started](01.introduction.md)
