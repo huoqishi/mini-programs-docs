@@ -1,0 +1,18 @@
+<view>
+  <text>详情页</text>
+  <swiper 
+  indicator-dots="true"
+  autoplay="true"
+  interval="2000"
+  duration="1000">
+  <swiper-item>
+     <image src="http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg" class="slide-image" width="355" height="150"/>
+  </swiper-item>
+  <swiper-item>
+     <image src="http://img06.tooopen.com/images/20160818/tooopen_sy_175866434296.jpg" class="slide-image" width="355" height="150"/>
+  </swiper-item>
+  <swiper-item>
+     <image src="http://img06.tooopen.com/images/20160818/tooopen_sy_175833047715.jpg" class="slide-image" width="355" height="150"/>
+  </swiper-item>
+</swiper>
+</view>
